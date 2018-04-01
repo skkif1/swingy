@@ -24,10 +24,13 @@ public class ConsoleUiManager extends UiManager {
         System.out.println(mainMenu);
         String answer = readInput();
 
-        if (answer.equalsIgnoreCase("c"))
-            return new PlayerCreationStep().createPlayer();
-        if (answer.equalsIgnoreCase("s"))
-            return null;
+        if (answer != null)
+        {
+            if (answer.equalsIgnoreCase("c"))
+                return new PlayerCreationStep().createPlayer();
+            if (answer.equalsIgnoreCase("s"))
+                return null;
+        }
         return null;
     }
 

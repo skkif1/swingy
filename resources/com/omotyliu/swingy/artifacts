@@ -1,0 +1,12 @@
+sword, short sword, 5, 1, 0, 5, 0, 450
+sword, steel sharp sword, 8, 1, 0, 10, 0, 600
+sword, long  sword, 14, 1, 1, 30, 0, 1050
+bow, wooden bow, 5, 3, 0, 0, 0, 600,
+bow, long bow, 8, 4, 0, 8, 0, 1200,
+bow, elf bow, 10, 5, 0, 15, 0, 2000,
+armour, wooden armour, 0, 0, 5, 0, 10, 200,
+armour, steel armour, 0, 0, 10, 0, 15, 450,
+armour, titanium armour, 0, 0, 30, 0, 20, 1000,
+helm, simple helm, 1, 1, 1, 10, 5, 300,
+helm, steel helm, 2, 1, 4, 20, 5, 650,
+helm, simple helm, 1, 1, 10, 40, 5, 1500,
